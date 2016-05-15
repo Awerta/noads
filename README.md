@@ -1,0 +1,2 @@
+# NoADS
+WWW without ads
