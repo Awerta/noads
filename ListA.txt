@@ -2,6 +2,7 @@
 ! Checksum: 02gqA9sVUXDRWb74p8e4iA
 ! [Ad Blocking Rules]/blocking
 ! [Exception Rules]/whitelist
+http://tik.ir/files/adv//*
 @@|http://shoayb.rozblog.com/post/18|$document
 @@||google-analytics.com/__utm.gif?*
 @@||sh.st/bundles/smeadvertisement/img/track.gif?$xmlhttprequest
