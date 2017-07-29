@@ -2,6 +2,9 @@
 ! Checksum: 02gqA9sVUXDRWb74p8e4iA
 ! [Ad Blocking Rules]/blocking
 ! [Exception Rules]/whitelist
+! Homepage: http://vahidiravani.ir/
+! Title: Persian list by Vahid Iravani
+! Expires: 1 days
 @@||sh.st/bundles/smeadvertisement/img/track.gif?$xmlhttprequest
 @@||sh.st/bundles/smeadvertisement/img/track.gif?*
 @@|http://shoayb.rozblog.com/post/18|$document
