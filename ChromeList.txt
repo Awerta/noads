@@ -2672,6 +2672,7 @@ dl-wordpress.com##.mNjyTsQbZCwG-default
 sarzamindownload.com##.GSblock
 sarzamindownload.com##.title.sutunbaslik.\-baslik.widget_baslik
 aprclassic.mihanblog.com###mihan_page_advert
+||static1.tamasha.com/v3/*
 ! Checksum: b3yyWxF7we9rBS8x46moSQ
 ! [Ad Blocking Rules]/blocking
 ! [Exception Rules]/whitelist
