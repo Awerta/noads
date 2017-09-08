@@ -1549,7 +1549,6 @@ http://*.smusic.ir/*.gif
 ||dl.smusic.ir/oil.jpg
 |http://www.diarmusic.ir/*.gif
 ||diarmusic.ir/wp-content/uploads/p2.jpg
-|http://nex1music.ir/banner/*
 |http://prweb.ir/files/content-image/pbanner.gif
 ||hajigraphic.ir/wp-content/uploads/2015/08/naslborhan468.gif
 ||up.vbiran.ir/uploads/39127142927047627708_ads468-60.png
@@ -2119,7 +2118,6 @@ parsiblog.com/Ads/*
 ||dibamovie.biz/wp-content/uploads/2017/02/iphone1.jpg
 ||306.ir/Mostanad.pic/00.base/ads/*
 ||4downloads.ir/wp-content/themes/4DownLoads/images/faranesh.728.gif
-||nex1music.ir/bnr/*
 ||buy.tinypass.com/checkout/template/show?displayMode=modal&templateId=OTGMOJ3YG91S&offerId=fakeOfferId&trackingId=%7Bjcx%7DH4sIAAAAAAAAAIWQUUvDMBhF_0ue-0GSLsm6t22W0jmpuirbxIc0SWegS6Npt4H4361FBEHw-Z5zL9x3JK1GM7TgId9er611KEJeHsyjNef8K6GYCMAxUAqYAE6AcRBUwDItuLuv-qD71VZtHLCEEyaxEIyKWgiOtcZG07hiSmKN2VBsLt68WeOUSS9G9Z1t3bhBqOIMVxymAw-TWE6gEnUNrKqVIDSeJKb6pc_Vjxte2nNpjr6RnblNl-k-m66X-e4qGYTgG9uVJnQh1wHNnp4j1H2jo1uU2U2xindZQjYDruTRS3twA-r6ponQyQbbjeQJ_vyBEWhfH3DJ_by-zBf7O0___-HjE3-0kNN1AQAA&experienceId=EXH3A4CDOUTP&tbc=%7Bjbd%7DeyJ2IjoyLCJwayI6IkRLUE14VlgzQVI5bnd1OTRyWWZWY0NFQzhnU2xIRzZVZGdCWE5TQTNUaTd4RnpudnVqWEo1VmtxdVhBVSJ9&iframeId=offer-0-jZtUL&url=http%3A%2F%2Fwww.businessinsider.com%2Fbooks-to-read-in-2016-if-you-want-to-get-rich-2016-1%3FIR%3DT%2F%23think-and-grow-rich-by-napoleon-hill-1&parentDualScreenLeft=0&parentDualScreenTop=0&parentWidth=1366&parentHeight=638&parentOuterHeight=728&aid=B6sIXKLiin&customVariables=%7B%22PageType%22%3A%22slideshow%22%7D&pageViewId=2017-03-22-01-09-56-727-CEO6nRbusduJXcSn-59615a077527f7760dd0ed23b5ca0d05&visitId=v-2017-03-22-01-09-56-751-oqU0T6pAfxABZQp2-59615a077527f7760dd0ed23b5ca0d05&userProvider=tinypass_accounts&userToken=&hasLoginRequiredCallback=false&width=1349&_qh=1567433108
 ||cdn.mashreghnews.ir/*.gif
 ||digiato.com/ads/*
@@ -2566,7 +2564,6 @@ alamto.com##.pink
 alamto.com##.yellow
 alamto.com##.blue
 beytoote.com##div[style="opacity:1;position:fixed;z-index:9000000001;100%;height:100%;margin:0 auto;left:40%;top:0px;left:0px;margin:0px;padding:0px;width:100%"]
-nex1music.ir##.blkt.blktads
 businessinsider.com##.tp-iframe-wrapper.tp-active
 businessinsider.com##.tp-modal
 businessinsider.com##.tp-backdrop.tp-active
@@ -2703,8 +2700,6 @@ aprclassic.mihanblog.com###mihan_page_advert
 ||yoozdl.com/wp-content/uploads/2017/08/yoozdl-2.jpg
 ||static1.tamasha.com/v3/*
 zoomit.ir###yektanet-articles-112
-nex1music.ir##.he5
-nex1music.ir##.he3
 p30download.com##div[style="-moz-border-bottom-colors: none;-moz-border-left-colors: none;-moz-border-right-colors: none;-moz-border-top-colors: none;background-color: #db4437;background-repeat: repeat;border-bottom-right-radius: 5px;border-color: #c53929;border-image: none;border-style: solid;border-top-right-radius: 5px;border-width: 2px 2px 2px 3px;bottom: 20px;color: #fff;font-size: 11px;left: 0;line-height: 20px;padding: 5px;position: fixed;text-align: center;width: 60px;font-family:tahoma;z-index: 500;"]
 p30download.com##div[style="overflow: hidden; font-family: b koodak; color: rgb(85, 85, 85); height: 225px; display:block"]
 gisheha.com##.buy
