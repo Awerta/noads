@@ -2673,6 +2673,55 @@ sarzamindownload.com##.GSblock
 sarzamindownload.com##.title.sutunbaslik.\-baslik.widget_baslik
 aprclassic.mihanblog.com###mihan_page_advert
 ||static1.tamasha.com/v3/*
+||sheypoor.com/static/ra/nofollow.html?callback=func&count=30&lang=fa-IR&offset=0&sortPresetID=n&withImage=yes&categoryID=43610&utm_source=NiniSite&utm_medium=NativeAd&utm_campaign=RollingAd
+||ecdn.ninisite.com/statics/*.gif
+||ecdn.ninisite.com/statics/default/blank-loading.png?width=728&height=90&crop&bgcolor=white
+||ecdn.ninisite.com/statics/default/blank-loading.png?width=300&height=100&crop&bgcolor=white
+||media.yektanet.com/static/media/*.jpg
+||media.yektanet.com/static/*
+||netwas.net/public/getBanner
+||netwas.net/public/getBanner?banner_id=15*
+||netwas.net/public/getBanner?banner_id=15
+||sabavision.com/showcamp2.php?posid=*
+||projectcao.com/cdn/image.php?refer=*
+||static1.varzesh3.com/files/ads/*
+||static01.farakav.varzesh3.tamasha.com/frame?path=http://static1.varzesh3.com/files/ads/00906628.gif&url=http://ads.farakav.com/clk?av=hNUN&gl=cfcd208495d565ef66e7dff9f98764da&lc=11&width=130&height=200
+||rozmusic.com/wp-content/uploads/2017/05/novin.jpg
+||bitdownload.ir/wp-content/uploads/2017/04/22-1-1024x184.png
+||bitdownload.ir/wp-content/*.gif
+||gisheha.com/wp-content/uploads/2017/06/779-MAIN-JPG-2.jpg
+||gisheha.com/wp-content/uploads/2017/06/900-700-MAIN-1.jpg
+||130.185.76.109/banners/*
+||ariapix.net/wp-content/uploads/2017/08/06.jpg
+||ariapix.net/wp-content/uploads/2017/08/903-700-main.jpg
+||centralclubs.com/images/*.gif
+||hastidl.net/wp-content/uploads/samandehi1.png
+||hastidl.net/wp-content/uploads/2017/08/IMG_20170730_130035-1.jpg
+||hastidl.net/wp-content/uploads/2017/08/450x450.jpg
+||hastidl.net/wp-content/uploads/2017/08/photo_2017-08-16_12-29-52-Copy.jpg
+||bia4media.ir/*.gif
+||yoozdl.com/wp-content/uploads/2017/08/yoozdl-2.jpg
+||static1.tamasha.com/v3/*
+zoomit.ir###yektanet-articles-112
+nex1music.ir##.he5
+nex1music.ir##.he3
+p30download.com##div[style="-moz-border-bottom-colors: none;-moz-border-left-colors: none;-moz-border-right-colors: none;-moz-border-top-colors: none;background-color: #db4437;background-repeat: repeat;border-bottom-right-radius: 5px;border-color: #c53929;border-image: none;border-style: solid;border-top-right-radius: 5px;border-width: 2px 2px 2px 3px;bottom: 20px;color: #fff;font-size: 11px;left: 0;line-height: 20px;padding: 5px;position: fixed;text-align: center;width: 60px;font-family:tahoma;z-index: 500;"]
+p30download.com##div[style="overflow: hidden; font-family: b koodak; color: rgb(85, 85, 85); height: 225px; display:block"]
+gisheha.com##.buy
+centralclubs.com###anetwork-17401
+centralclubs.com##.anetwork-b.anetwork-b-300x250.anetwork-resizable
+centralclubs.com###anetwork-635246
+centralclubs.com##.anetwork-b.anetwork-b-160x600.anetwork-resizable
+yoozdl.com##.tagg
+themeslide.com##.TgMNSYFODOXp-bg
+themeslide.com##.TgMNSYFODOXp-default
+hastidl.net###adnFloatbr
+hastidl.net##.tags
+mymoviez.biz##.tags
+hose10.com##.swal2-modal.adBlockDetectModal.swal2-show
+hose10.com##.swal2-container.swal2-fade.swal2-in
+soft98.ir###js__sabavision-content-ad
+soft98.ir##.sabavision-content-ad
 ! Checksum: b3yyWxF7we9rBS8x46moSQ
 ! [Ad Blocking Rules]/blocking
 ! [Exception Rules]/whitelist
