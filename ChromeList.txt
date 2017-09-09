@@ -2728,6 +2728,12 @@ nex1music.ir##.blkc.blkccn
 nex1music.ir##.he5
 pop-music.ir###first
 pop-music.ir##.define-post
+soft98.ir###left > div:nth-child(2)
+||img.soft98.ir/*.gif
+soft98.ir##.banners
+soft98.ir###no1block
+soft98.ir##a[href*="adv.html"]
+soft98.ir##.adtext
 ! Checksum: b3yyWxF7we9rBS8x46moSQ
 ! [Ad Blocking Rules]/blocking
 ! [Exception Rules]/whitelist
