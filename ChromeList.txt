@@ -2734,6 +2734,51 @@ soft98.ir##.banners
 soft98.ir###no1block
 soft98.ir##a[href*="adv.html"]
 soft98.ir##.adtext
+||up.20script.ir/file/9820-ariaweb-banner.jpg
+||up.20script.ir/live/f48d-120-240.gif
+||ipirani.ir/ads/*
+||download.ir/wp-content/uploads/2016/10/dl-farsi.png
+||drive.tgju.org/etc/digikala10.jpg
+||vfxdownload.com/wp-content/uploads/2017/02/new-pop-up-nitro-flare220.jpg
+||androidha.com/*.gif
+||e.weclick.ir/display/pre/*
+||poneldownload.info/wp-content/uploads/2017/09/radyabi.jpg
+||up.20script.ir/live/836f-IMG-5412.gif
+||doostihaa.com/img/*.gif
+||farsroid.com/file/Janebiii.png
+||farsroid.com/file/Janebi-F.png
+||pisms.ir/*.gif
+||up.sport4u.ir/up/action/yoga-face/%DB%8C%D9%88%DA%AF%D8%A7-%D8%B5%D9%88%D8%B1%D8%AA-%D8%B3%D8%AD%D8%AE%D9%82%D9%814%D8%B9.%D9%87%D9%82.gif
+||namehnews.ir/files/adv/*
+||itresan.com/wp-content/*.gif
+fox-dl.com###locked
+20script.ir##.ads
+##.yektanet-articles__content
+##.yektanet-articles__heading
+downloadha.com##.topbanners468
+downloadha.com##.tel-ads
+tgju.org##.modal-close-layer
+tgju.org##.modal-close
+tgju.org###popup-layer-container
+tgju.org##.modal-dialog.show
+vfxdownload.com##.snp-fb.snp-theme-image
+vfxdownload.com##.fancybox-item.fancybox-close
+vfxdownload.com##.fancybox-overlay.fancybox-overlay-fixed.snp-pop-66458-overlay
+androidha.com##.footer_box_text_ads
+androidha.com##.sticky_post_left
+androidha.com##.sticky_post_right
+farsiapk.ir###itro_opaco
+farsiapk.ir###popup_content
+farsiapk.ir###itro_popup
+farsiapk.ir###faradars_ad_farsiapk_ir_2
+farsiapk.ir##.tright
+farsiapk.ir##.ads_single
+doostihaa.com##div[style="width:120px; padding:1px; margin:0; float:left; line-height:20px; background:#e8e8e8; color:#C40000; cursor:pointer; font-size: 9pt; font-family: tahoma; text-align: right; direction:rtl; text-decoration:none;"]
+wikitaraneh.com###itro_opaco
+multiplottr.com##.closeAd
+multiplottr.com##.blockedAd
+kingstheme.com###id-overlay-box
+kingstheme.com###idblog-adb-enabled
 ! Checksum: b3yyWxF7we9rBS8x46moSQ
 ! [Ad Blocking Rules]/blocking
 ! [Exception Rules]/whitelist
