@@ -2845,6 +2845,9 @@ downloadha.com##.ads.top-left-ads.panel.panel-default
 downloadha.com##.panel.panel-warning.fixed-posts.post
 downloadha.com##.bot-left-ads.panel.panel-default.hidden-xs
 downloadha.com##a[href="https://www.downloadha.com/ads/"]
+soft98.ir##.ba1ers.p20
+soft98.ir##.linkdoni-box
+soft98.ir##.infolink.green1
 ! Checksum: b3yyWxF7we9rBS8x46moSQ
 ! [Ad Blocking Rules]/blocking
 ! [Exception Rules]/whitelist
