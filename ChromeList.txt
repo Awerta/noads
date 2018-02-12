@@ -1,4 +1,4 @@
-[Adblock Plus 2.0]
+d[Adblock Plus 2.0]
 ! Checksum: 02gqA9sVUXDRWb74p8e4iA
 ! [Ad Blocking Rules]/blocking
 ! [Exception Rules]/whitelist
@@ -941,23 +941,8 @@ http://uploada.ir/images/
 |http://www.downloadnewmusic.ir/images/ug09a462.gif
 |http://69e.ir/helpmahack.jpg
 ||rahvar.ir/show.php?*
-|http://dl5.downloadha.com/hosein/glorytoon_korra.swf
-|http://downloadha.com/shop/bamilohead.gif
-|http://downloadha.com/shop/buy-icon2.gif
-||downloadha.com/shop/irptvnnn.jpg
-||downloadha.com/shop/khwna.gif
-||downloadha.com/shop/lampled-s.jpg
-||downloadha.com/shop/newasia.gif
-||downloadha.com/shop/paniz-s.jpg
-||downloadha.com/shop/tochled-s.jpg
-||downloadha.com/shop/MyFreeZoo.gif
-||downloadha.com/shop/khw777.jpg
-||downloadha.com/shop/dastkesht.jpg
 ||20script.ir/banner/*
 ||topw.co/index/dedicated468x60-3.gif
-||downloadha.com/shop/bamilopoosh.gif
-||downloadha.com/shop/mazra.swf
-||downloadha.com/shop/onlineforms.swf
 ||img.patoghu.com/tabligh/*
 ||yasdl.com/wp-content/uploads/2014/11/travianwars.jpg
 ||yasdl.com/wp-content/uploads/2014/09/KW_TtG.jpg
@@ -1004,12 +989,7 @@ http://www.serinshop.com/
 ||ictna.ir/ads/files/AAWAAT-ICTNA-240x120.swf
 |http://ictna.ir/ads
 ||ictna.ir/ads/*
-||downloadha.com/shop/3gwifi-s.jpg
-||downloadha.com/shop/parand-s3.jpg
-||downloadha.com/shop/khw-j7.jpg
-||downloadha.com/shop/portaghal-s.jpg
-||downloadha.com/shop/khwnnnnw.gif
-||downloadha.com/shop/iranmotorla.gif
+
 |http://farsnews.com/banner/MainPage/Left/ansar1393.07.20.swf
 ||farsnews.com/banner/MainPage/Left/tejarat13930804.swf
 ||farsnews.com/Banner/MainPage/Left/asiatech.gif
@@ -1135,10 +1115,6 @@ http://www.serinshop.com/
 ||danakhabar.com/files/adv//*
 ||soft2012.ir/tablighpic/*
 |http://www.bhclicks.com/files/banner_*
-|http://downloadha.com/shop/mashhadcarp.gif
-|http://dl5.downloadha.com/hosein/glorytoon_2.swf
-||downloadha.com/shop/irptvfif.jpg
-||downloadha.com/shop/nano-s.jpg
 ||pop-music.ir/aks/eynak.gif
 ||pop-music.ir/aks/*
 ||shahrsakhtafzar.com/fa/images/banners/*
@@ -1226,9 +1202,6 @@ http://mehsaz.ir
 ||scriptsdump.com/wp-content/uploads/2015/04/slow-pc-fix.gif
 ||dl.elecdl.com/Upload%20center/89.8/tabligh.gif
 |http://p30download.com/tabliq/*
-||downloadha.com/shop/*
-|http://dl5.downloadha.com/hosein/33sal.gif
-|http://dl5.downloadha.com/hosein/glorytoon_3.swf
 ||downloadha.camp.sabavision.com^
 ||apktops.ir/wp-content/uploads/2015/04/gempu2.gif
 ||feedco.ir^
@@ -1824,7 +1797,6 @@ http://www.sabavision.com/showcamp2.php?posid=335&w=100%&h=100%&protocol=http://
 ||click.sabavision.com/*
 ||media.jamnews.ir/ads/*
 ||cdn.mashreghnews.ir/files/adv/*
-||downloadha.com/pic/*.gif
 ||static.mobile.ir/Static/banners/*
 ||aftabir.com/campaigns/adv_images/*
 ||cdn.zoomg.ir/banners/*
@@ -2212,10 +2184,6 @@ farsnews.com##.adscolumn.col-md-5.hidden-sm.col-lg-5
 rozblog.com###intro-ads
 rozblog.com##.left-fl.advertising
 ##div[style="position:fixed;left:1px;bottom:1px;width:122px;border:1px solid #C0C0C0;z-index:9999999999;background-color:white;direction:ltr;"]
-downloadha.com##.spbanners
-downloadha.com##.topbanners468
-downloadha.com##.widget.aside.collapse
-downloadha.com##.entry-etc
 mobile.ir##.banner-image
 mobile.ir##.banner
 aftabir.com##.banner-container
@@ -2594,7 +2562,6 @@ p30plus.org##.ads-fix-post
 p30download.com##.onesignal-bell-launcher-button
 film2movie.biz##.ADTUBE
 film2movie.biz##div.box:first-child
-downloadha.com##.post:first-child
 film2movie.biz##.headbanners
 1fardadownload.net###\39 70\*90\*1716\*24
 1fardadownload.net##.clickresan
@@ -2755,8 +2722,6 @@ fox-dl.com###locked
 20script.ir##.ads
 ##.yektanet-articles__content
 ##.yektanet-articles__heading
-downloadha.com##.topbanners468
-downloadha.com##.tel-ads
 tgju.org##.modal-close-layer
 tgju.org##.modal-close
 tgju.org###popup-layer-container
