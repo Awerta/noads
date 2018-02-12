@@ -2848,6 +2848,8 @@ downloadha.com##a[href="https://www.downloadha.com/ads/"]
 soft98.ir##.ba1ers.p20
 soft98.ir##.linkdoni-box
 soft98.ir##.infolink.green1
+soft98.ir##.centp.ba1erstxt.m40b.m40t
+soft98.ir###adtube-632
 ! Checksum: b3yyWxF7we9rBS8x46moSQ
 ! [Ad Blocking Rules]/blocking
 ! [Exception Rules]/whitelist
