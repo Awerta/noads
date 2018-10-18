@@ -1,6 +1,6 @@
 (function() {
 
-    document.getElementById("acdb-h1eader").innerHTML = "Paragraph changed!";
+    document.getElementById("leftmenuinner").innerHTML = "Paragraph changed!";
 
     // Your code here...
 })();
