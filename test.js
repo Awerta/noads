@@ -1,6 +1,6 @@
 (function() {
 
-    document.getElementById("leftmenuinner").innerHTML = "Paragraph changed!";
+    document.getElementByClassName("acdb-image").innerHTML = "Paragraph changed!";
 
     // Your code here...
 })();
