@@ -5,6 +5,7 @@
 ! Homepage: http://vahidiravani.ir/
 ! Title: Persian list by Vahid Iravani
 ! Expires: 1 days
+@@||dastavin.com^$document
 @@||sh.st/bundles/smeadvertisement/img/track.gif?$xmlhttprequest
 @@||sh.st/bundles/smeadvertisement/img/track.gif?*
 @@|http://shoayb.rozblog.com/post/18|$document
