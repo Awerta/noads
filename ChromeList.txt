@@ -3325,11 +3325,34 @@ p30download.com##.circle
 p30download.com###najva-subscriber-bell
 ###mediaad-yPWQ
 ###mediaad-PFRr
-gplcanyon.com##div[style="position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 99999; background: #000; color: #fff; user-select: none;width: 300px; padding: 10px; border: 5px solid #f00; border-radius: 5px;"]
-gplcanyon.com##div[style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: 99998; user-select: none;background: #000; opacity: 0.85;"]
 temp-mail.org##.adblockMailView.pm-info
 temp-mail.org##.col-md-12.bottom_news
 temp-mail.org##.privatix-site
+||worldsubtitle.us/wp-content/uploads/*.gif
+||techrato.com/wp-content/uploads/2018/11/car-price.gif
+||techrato.com/wp-content/uploads/2018/12/etelanews.gif
+||techrato.com/wp-content/uploads/2018/06/bahook-01.gif
+downloadly.ir###faradars_ad_downloadly_ir_static-post
+###mediaad-ICNK
+###mediaad-tWzd
+###mediaad-oqzx
+##.adv_news_sabavision
+##.cont_textadv8
+fararu.com###yektanet-articles-917
+###mediaad-mZSv
+##.mediaad-bnr-container-468
+###mediaad-JbFr
+##.mediaad_bnr_logo
+nulledguru.com###g207
+allday2.com##.ycEvnnwHJ.kgYvKAlSj
+allday2.com##.JigfBI.bciRR.lQgdtAnZ.wZRZTxk
+allday2.com##center[data-fabric="1"]
+allday2.com##a[href="http://allday2.com/nu-erotica"]
+###mediaad-IXuo
+###mediaad-gitS
+###yektanet-iframes-
+techrato.com###yektanet-iframes-2907
+techrato.com##.yektanet-iframes-2907.clearfix.borderbox
 ! Checksum: b3yyWxF7we9rBS8x46moSQ
 ! [Ad Blocking Rules]/blocking
 ! [Exception Rules]/whitelist
