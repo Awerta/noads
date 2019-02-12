@@ -90,10 +90,10 @@
 |http://funfarsi.ir/tt/microtoch.jpg
 ||img.soft98.ir/*.gif
 ||https://irco.cf/*.az
-||soft98.ir##.d-block
-||soft98.ir###linkdoni
-||soft98.ir##.d-js-none > .card-body > .alert-warning.alert
-||soft98.ir###linkdoni > .card-body
+##.d-block
+###linkdoni
+##.d-js-none > .card-body > .alert-warning.alert
+###linkdoni > .card-body
 ||funfarsi.ir^
 ||marketoff.ir^
 ||30cd.biz^
