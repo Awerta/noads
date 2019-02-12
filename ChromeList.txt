@@ -90,6 +90,7 @@
 |http://funfarsi.ir/tt/microtoch.jpg
 ||img.soft98.ir/*.gif
 ||https://irco.cf/*.az
+||soft98.ir##.d-block
 ||funfarsi.ir^
 ||marketoff.ir^
 ||30cd.biz^
