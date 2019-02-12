@@ -91,6 +91,7 @@
 ||img.soft98.ir/*.gif
 ||https://irco.cf/*.az
 ||soft98.ir##.d-block
+||soft98.ir###linkdoni
 ||funfarsi.ir^
 ||marketoff.ir^
 ||30cd.biz^
