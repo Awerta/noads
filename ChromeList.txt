@@ -1,9 +1,11 @@
 [Adblock Plus 2.0]
 ! Checksum: 02gqA9sVUXDRWb74p8e4iA
+! Version: 1.0.2
 ! [Ad Blocking Rules]/blocking
 ! [Exception Rules]/whitelist
 ! Homepage: http://vahidiravani.ir/
 ! Title: Persian list by Vahid Iravani
+! Last modified: Tue Feb 12 20:57:01 +0330 2019
 ! Expires: 1 days
 @@||dastavin.com^$document
 @@||sh.st/bundles/smeadvertisement/img/track.gif?$xmlhttprequest
@@ -86,23 +88,8 @@
 ||apktops.ir/wp-content/uppic/*
 ||apktops.ir/wp-content/uploads/2014/01/*
 |http://funfarsi.ir/tt/microtoch.jpg
-||img.soft98.ir/0_Appleid2.gif
-||img.soft98.ir/0_cysec.gif
-||img.soft98.ir/0_sellmobile.gif
-||img.soft98.ir/0_myspeed.gif
-||img.soft98.ir/0_asemanhost.gif
-||img.soft98.ir/0_tabligh2.gif
-||img.soft98.ir/0_ddp-co.gif
-||img.soft98.ir/0_rondyab.gif
-||img.soft98.ir/0_10android.gif
-||img.soft98.ir/0_owork.gif
-||img.soft98.ir/0_hostdl5.gif
-||img.soft98.ir/0_serverpars.jpg
-||img.soft98.ir/0_irnm.gif
-||img.soft98.ir/0_psychosoft.gif
-||img.soft98.ir/0_asemanhost2.gif
-||img.soft98.ir/0_rezagraph.gif
-||img.soft98.ir/0_avajang.gif
+||img.soft98.ir/*.gif
+||https://irco.cf/*.az
 ||funfarsi.ir^
 ||marketoff.ir^
 ||30cd.biz^
