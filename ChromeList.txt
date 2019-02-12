@@ -93,6 +93,7 @@
 ||soft98.ir##.d-block
 ||soft98.ir###linkdoni
 ||soft98.ir##.d-js-none > .card-body > .alert-warning.alert
+||soft98.ir###linkdoni > .card-body
 ||funfarsi.ir^
 ||marketoff.ir^
 ||30cd.biz^
