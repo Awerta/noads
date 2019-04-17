@@ -2753,7 +2753,6 @@ kingstheme.com###idblog-adb-enabled
 ||setare.com/files/adv/*
 ||click.8tad.ir/click/wp.sh?host_id=*
 ||rooziato.com/wp-content/*.gif
-div#mediaad-A
 ||arga-mag.com/file/img/*.gif
 ||cdn.yektanet.com/assets/templates/iframe_bottom_sticky.html?id=*
 ||nex1music.ir/bnr/*
@@ -2779,8 +2778,6 @@ ajibtarin.com##.bsaProAnimateThumb
 persianpersia.com###anetwork-814433
 persianpersia.com##.anetwork-b.anetwork-b-728x90.anetwork-resizable
 persianpersia.com##.ad-left-300x250
-aftabnews.ir###mediaad-A
-aftabnews.ir###yektanet-pos-1
 tabnak.ir##.mg_cl_title
 tabnak.ir##.mg_cl_text-content
 tabnak.ir##.mg_cl_logo
@@ -2805,9 +2802,7 @@ parsclick.net##.swal-overlay.swal-overlay--show-modal
 8tag.ir###js-native-8tad-content-ad
 8tag.ir##.native-8tad-content-ad
 rooziato.com###adtube-235
-##div#mediaad-A
 ##div.clickyab-native-ad
-arga-mag.com##.bdaia-header-e3-desktop.bdaia-bellow-header
 arga-mag.com###yektanet-iframe-bottom-sticky-wrapper-309
 arga-mag.com##.yektanet-iframes_wrapper.clearfix.borderbox
 khabarfarsi.com##iframe[src="javascript:false"]
@@ -2879,7 +2874,6 @@ p30download.com##iframe[src="http://beta.kaprila.com/a/show.php?ref=p30download.
 dailymobile.ir###e1
 dailymobile.ir##.tabContent
 dailymobile.ir##.textwidget.custom-html-widget
-##div#mediaad-H
 ##div#yektaNewsTemplateContainer
 ##ul#yektaNewsContainer
 ##div#sanjagh_p1
@@ -2990,7 +2984,6 @@ shanbemag.ir###anetwork-958805
 shanbemag.ir##.anetwork-b.anetwork-b-300x600.anetwork-resizable
 shanbemag.ir###anetwork-138212
 shanbemag.ir##.anetwork-b.anetwork-b-300x250.anetwork-resizable
-saten.ir###mediaad-B
 saten.ir##.ni-related-container.popup_direction_controller
 saten.ir###AdnwAA
 businessinsider.com##.is-scrolled
@@ -3014,8 +3007,6 @@ zoomit.ir##.relatedapep
 faradeed.ir###ynpos-120
 faradeed.ir##.yn-bnr.processed
 faradeed.ir##.title33_text_adv
-ilnanews.com##div#mediaad-tZUl
-ilnanews.com##div#mediaad-swBO
 fararu.com##div#yektanet-pos-2
 fararu.com##.centerSpecialAdv
 fararu.com##.webgardi_adv_header
@@ -3059,7 +3050,6 @@ digiato.com##.agahi-row
 digiato.com##.agahi-mobile
 digiato.com##.agahi-mobile-full-width
 digiato.com##.agahi-article-inside-bottom
-###mediaad-bgUI
 ###anetwork-PB
 ##.anetwork-b
 ###js__sabavision-content-ad
@@ -3214,7 +3204,6 @@ hastidl.me###AdnwAA
 worldsubtitle.us###ynpos-1643
 worldsubtitle.us##.yn-bnr.processed
 ##.ir-ads
-anzalweb.ir###mediaad-gXYR
 anzalweb.ir##.ads-text-main
 anzalweb.ir##.web-design
 ###sigmawN1
@@ -3236,9 +3225,7 @@ downloadazad.ir##.box-ads-120sma-sidebar
 downloadazad.ir##.ads656.hidden-xs
 downloadazad.ir##.box-ads-120-sidebar
 downloadazad.ir##.boxadstext_side
-###mediaad-mjRd
 forum.p30world.com###ad_global_below_navbar
-3sotdownload.com##.topAd
 3sotdownload.com##.topLastestAds
 aparat.com##.pause-ad__responsive
 aparat.com##.aparat-pause-ad.show
@@ -3267,8 +3254,6 @@ jesarat.com##.topads1
 jesarat.com##.ads6
 ###AdnwAA
 mynextaraneh.in##.posts.buy
-###mediaad-ikzz
-###mediaad-WFLI
 bartarinha.ir##.ads
 donya-e-eqtesad.com##a[href="https://donya-e-eqtesad.com/advertisements/*"]
 donya-e-eqtesad.com##a[style="display: block; position: absolute; top: 0; left:0; right:0; bottom: 0; width: 120px;\a \9 \9 height: 240px;\a     overflow: hidden; overflow: hidden; background-image: url('https://static1.donya-e-eqtesad.com/servev2/dGEOTZLx1Hto/aztreVakjSU,/%D9%87%D9%85%D8%A7%DB%8C%D8%B4+%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF+%D9%88+%D9%88%D8%B1%D8%B2%D8%B4-%D8%B5%D9%81%D8%AD%D9%87+%D8%AE%D8%A8%D8%B1-%D8%B3%D9%85%D8%AA+%DA%86%D9%BE.gif'); "]
@@ -3286,7 +3271,6 @@ donya-e-eqtesad.com##.respo-ad
 saten.ir###spot_1
 saten.ir##.adhere
 saten.ir##.b5san-post
-###mediaad-TSeS
 picofile.com###ads
 l8r.ir##.shop
 ###adtube-365
@@ -3307,12 +3291,9 @@ talab.org##.ads-head
 soft98.ir##.acdb-300-250.acdb-s1idebar
 download24x7.com###tie-popup-adblock
 download24x7.com##.tie-popup.is-fixed-popup
-###mediaad-C
 p30download.com##.circle__img
 p30download.com##.circle
 p30download.com###najva-subscriber-bell
-###mediaad-yPWQ
-###mediaad-PFRr
 temp-mail.org##.adblockMailView.pm-info
 temp-mail.org##.col-md-12.bottom_news
 temp-mail.org##.privatix-site
@@ -3321,23 +3302,15 @@ temp-mail.org##.privatix-site
 ||techrato.com/wp-content/uploads/2018/12/etelanews.gif
 ||techrato.com/wp-content/uploads/2018/06/bahook-01.gif
 downloadly.ir###faradars_ad_downloadly_ir_static-post
-###mediaad-ICNK
-###mediaad-tWzd
-###mediaad-oqzx
 ##.adv_news_sabavision
 ##.cont_textadv8
 fararu.com###yektanet-articles-917
-###mediaad-mZSv
-##.mediaad-bnr-container-468
-###mediaad-JbFr
 ##.mediaad_bnr_logo
 nulledguru.com###g207
 allday2.com##.ycEvnnwHJ.kgYvKAlSj
 allday2.com##.JigfBI.bciRR.lQgdtAnZ.wZRZTxk
 allday2.com##center[data-fabric="1"]
 allday2.com##a[href="http://allday2.com/nu-erotica"]
-###mediaad-IXuo
-###mediaad-gitS
 ###yektanet-iframes-
 techrato.com###yektanet-iframes-2907
 techrato.com##.yektanet-iframes-2907.clearfix.borderbox
@@ -3393,20 +3366,37 @@ khabarfarsi.com##.is_numeric
 khabarfarsi.com###banners_120_top
 khabarfarsi.com##.webpars-logo
 khabarfarsi.com##.partotech-logo-warper
-snn.ir###mediaad-EQWM
 snn.ir##.iransamaneh
-snn.ir###mediaad-cDVM
-snn.ir##.mediaad-notif-container
 namnak.com###relads
 allday2.com##.dp-widget-frame
 allday2.com##iframe[src="javascript:void(false)"]
 soft98.ir###linkdoni
 soft98.ir###footer-bitcoin
 hidoctor.ir##.doctor-ads-item
-###mediaad-iTnr
 hidoctor.ir###sanjagh_position_1
 hidoctor.ir###yektanet-pos-1
 hidoctor.ir##.advertise-native-anchor
+||chargereseller.com/*.gif
+||uploadboy.com/*.gif
+||tasvirezendegi.com/*.gif
+*show.js.php*
+||storage.beytoote.com/images/adsbeytoote/*
+porseshkadeh.com###adtube-2452
+porseshkadeh.com##.adtube__scroll-top
+uploadboy.com###yektanet-articles-2625
+khabarfarsi.com##.track-click
+khabarfarsi.com###unblock_0832881e4065bcc7d19a7be8000c113c_1551347421_2570
+khabarfarsi.com##.is_numeric
+vajehyab.com###\31 811
+vajehyab.com##.digikala2
+tasvirezendegi.com##.Ads728
+tasvirezendegi.com##.sfad
+softgozar.com##a[href="https://www.softgozar.com/WebPage/Redirect.aspx?AdId=*"]
+softgozar.com##.adv_scr_dwnl
+youthop.com##.nngDaJklxlzp-default
+youthop.com##.nngDaJklxlzp-bg
+##div[id*="mediaad-"]
+||paroshat.com/*.gif
 ! Checksum: b3yyWxF7we9rBS8x46moSQ
 ! [Ad Blocking Rules]/blocking
 ! [Exception Rules]/whitelist
