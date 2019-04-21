@@ -3397,6 +3397,7 @@ youthop.com##.nngDaJklxlzp-default
 youthop.com##.nngDaJklxlzp-bg
 ##div[id*="mediaad-"]
 ##div[id*="yektanet-"]
+##div[id*="yektanet-iframes-"]
 ||paroshat.com/*.gif
 ! Checksum: b3yyWxF7we9rBS8x46moSQ
 ! [Ad Blocking Rules]/blocking
