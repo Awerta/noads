@@ -3395,10 +3395,11 @@ softgozar.com##a[href="https://www.softgozar.com/WebPage/Redirect.aspx?AdId=*"]
 softgozar.com##.adv_scr_dwnl
 youthop.com##.nngDaJklxlzp-default
 youthop.com##.nngDaJklxlzp-bg
+||paroshat.com/*.gif
 ##div[id*="mediaad-"]
 ##div[id*="yektanet-"]
 ##div[id*="yektanet-iframes-"]
-||paroshat.com/*.gif
+##div[id*="kaprila_"]
 ! Checksum: b3yyWxF7we9rBS8x46moSQ
 ! [Ad Blocking Rules]/blocking
 ! [Exception Rules]/whitelist
