@@ -3400,6 +3400,33 @@ youthop.com##.nngDaJklxlzp-bg
 ##div[id*="yektanet-"]
 ##div[id*="yektanet-iframes-"]
 ##div[id*="kaprila_"]
+||salamdl.info/*.gif
+||subf2m.co/*.gif
+||static.shereno.com//images-banner/
+||s8.picofile.com/file/8364624092/pish2_banner_1_.gif
+||mydiba.link/*.gif
+||s9.picofile.com/file/8364684776/tasvegas_bit.gif
+||iranjo.cf/*.az
+##iframe[src*="adiran.co/"]
+##div[id*="yektanet-"]
+##a[href*="ck.yektanet.com/click"]
+##img[src*="native.yektanet.com/static/media/"]
+##div[id*="yn-article-display-"]
+##div[id*="yn-article-"]
+##div[id*="sabavision_"]
+webmd.com###\-bxffxcv_ruj_zwirdv_\/1089101\/tfejldvi\/nvsdu_7__tfekrzevi__
+webmd.com###\-bruj9-gfj-878-ru-sreevi
+webmd.com##.\-bdfulcv.\-bru.\-bru-878
+webmd.com##.\-bdrze-tfekrzevi.\-bdrze-tfekrzevi-0
+temp-mail.org###google_ads_iframe_\/7047\/temp\/prdvcsmrt\/cube_max336x280_4_0
+temp-mail.org##iframe[src="https://tpc.googlesyndication.com/safeframe/1-0-35/html/container.html?uponit=true&upapi=true"]
+temp-mail.org###google_ads_iframe_\/7047\/temp\/prdvcsmrt\/cube_max336x280_4_0__container__
+##div[id*="ynpos-"]
+##[id*="sanjagh_"]
+soft98.ir###ad2x-specials
+##a[href*="https://beta.kaprila.com/a/p30dl-redirect.php"]
+beytoote.com##.countclick.countfree
+namnak.com##a[href*=".do"]
 ! Checksum: b3yyWxF7we9rBS8x46moSQ
 ! [Ad Blocking Rules]/blocking
 ! [Exception Rules]/whitelist
