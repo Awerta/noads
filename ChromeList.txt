@@ -3427,7 +3427,7 @@ soft98.ir###ad2x-specials
 ##a[href*="https://beta.kaprila.com/a/p30dl-redirect.php"]
 beytoote.com##.countclick.countfree
 namnak.com##a[href*=".do"]
-||soft98.ir/templates/soft98_default/js/jquery.js
+
 ||cdn.yektanet.com/js/soft98.ir/native-soft98.ir-6267.js
 ||cdn.yektanet.com/rg_woebegone/scripts_v2/yn-18490-pub/publisher.js
 ||app.najva.com/static/js/scripts/soft98-1064-1b17c43a-6687-4b1f-9556-caae6eacde61.js
