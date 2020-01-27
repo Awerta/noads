@@ -3427,6 +3427,50 @@ soft98.ir###ad2x-specials
 ##a[href*="https://beta.kaprila.com/a/p30dl-redirect.php"]
 beytoote.com##.countclick.countfree
 namnak.com##a[href*=".do"]
+||soft98.ir/templates/soft98_default/js/jquery.js
+||cdn.yektanet.com/js/soft98.ir/native-soft98.ir-6267.js
+||cdn.yektanet.com/rg_woebegone/scripts_v2/yn-18490-pub/publisher.js
+||app.najva.com/static/js/scripts/soft98-1064-1b17c43a-6687-4b1f-9556-caae6eacde61.js
+||dibamovie1.com/*.gif
+||dibamovie1.com/wp-content/uploads/2019/08/z115005002.jpg
+||myhastidl5.top/wp-content/*.gif
+||lisna.ir/images/banners/*.gif
+||dlroozane.net/*.gif
+||images.kojaro.com/*.gif
+##div[id*="yn-notification-"]
+##div[class*="advajeh-banner-"]
+##div[id*="yn-footer-sticky-"]
+##div[class*="yn-footer-sticky"]
+##a[href*="https://beta.kaprila.com/a/"]
+##div[class*="sanjagh--banner"]
+##div[class*="tabliq-"]
+p30download.com##p[class*="-keywords"]
+patoghu.com##.toptab
+yjc.ir##a[href*="iransamaneh.com"]
+yjc.ir##div[class*="iransamaneh"]
+yjc.ir##a[class*="social_link_logo telegram"]
+yjc.ir##a[class*="social_link_logo twitter"]
+isna.ir##a[href*="twitter.com/isna_farsi"]
+mashreghnews.ir##a[href*="/redirect/ads/"]
+farsnews.com##a[href*="/ads"]
+###najva-subscribe-bell
+mehrnews.com##a[href*="/news/2409272/"]
+mehrnews.com##a[href*="t.me/joinchat"]
+mehrnews.com##a[href*="twitter.com/mehrnews_fa"]
+tasnimnews.com##a[href*="facebook.com/tasnimnews"]
+tasnimnews.com##a[href*="twitter.com/Tasnimnews_Fa"]
+##div[class*="iransamaneh"]
+iribnews.ir##a[href*="twitter.com/iribnewsfa"]
+irna.ir##div[class*="poweredby"]
+mizanonline.com##a[href*="/ads/redirect/"]
+rasanews.ir##a[href*="twitter.com/rasanews_agency"]
+##section[class="iransamaneh"]
+soft98.ir##section[class*="d-block"]
+webmd.com###\-bzcr7-onr-656-zc-azmmdq
+webmd.com##.\-blnctkd.\-bzc.\-bzc-656
+webmd.com###\-bfnnfkd_zcr_heqzld_\/9867989\/bnmrtldq\/vdalc_6__bnmszhmdq__
+gplcanyon.com###ai-adb-message
+gplcanyon.com###ai-adb-overlay
 ! Checksum: b3yyWxF7we9rBS8x46moSQ
 ! [Ad Blocking Rules]/blocking
 ! [Exception Rules]/whitelist
