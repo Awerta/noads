@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
 ! Checksum: 02gqA9sVUXDRWb74p8e4iA
-! Version: 1.0.2
-! [Ad Blocking Rules]/blocking
-! [Exception Rules]/whitelist
-! Homepage: http://vahidiravani.ir/
+! Version: 202006092134
 ! Title: Persian list by Vahid Iravani
 ! Last modified: Tue Feb 12 20:57:01 +0330 2019
 ! Expires: 1 days
+! Homepage: http://vahidiravani.ir/
+! Licence: https://vahidiravani.ir/
+!-----------------------Persian Sites advert blocking filters-----------------------!
 @@||dastavin.com^$document
 @@||sh.st/bundles/smeadvertisement/img/track.gif?$xmlhttprequest
 @@||sh.st/bundles/smeadvertisement/img/track.gif?*
