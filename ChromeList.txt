@@ -3524,6 +3524,37 @@ beytoote.com##.mod-box.pc-f-p
 beytoote.com##.module.mod-box.tgm-other.portal_color7.deepest
 beytoote.com##.pcfadv4
 beytoote.com##.pc-side-close
+||*.irna.ir/*.gif
+||redlini.ga/*.az
+||blogmusic.ir/wp-content/uploads/2021/04/a2.jpg
+||blogmusic.ir/wp-content/uploads/2021/04/a1.png
+||2ad.ir/*.gif
+about:blank
+irna.ir##a[href*="/redirect/ads/"]
+irna.ir##li[id*="ad"]
+irna.ir##section[class *= "ads"]
+nulled-scripts.info###tie-popup-adblock
+nulled-scripts.info##.tie-popup.is-fixed-popup
+nulled-scripts.info##div[style="width: 100.11%;  top: 0;  height: 100.43%;  cursor: pointer;  user-select: none; z-index: 8867;  left: 0; position: fixed;"]
+nulled-scripts.info##ins[style="color: #fff;  top: 47.44%; position: fixed;  user-select: none;  background: #020202;  transform: translate(-49.94%, -49.94%); z-index: 16565;  cursor: pointer;  left: 51.34%;width: 300px;  padding: 10px;  border-radius: 5px;  border: 5px solid #f00;"]
+nulled-scripts.info##kbd[style="z-index: 12810;  height: 100.31%;  user-select: none;  top: 0; position: fixed;  left: 0;  cursor: pointer;  width: 100.87%;opacity: 0.86; background: #131313;"]
+soft98.ir###a7d7x-s1pecial
+miamiherald.com##.fc-dialog-container
+miamiherald.com##.fc-dialog-overlay
+miamiherald.com##.fc-ab-root
+subtitlestar.com##.balayematlab
+subtitlestar.com##.yn-article-display-card
+subtitlestar.com##div[id*="pos-article-display-card-"]
+dictionary.cambridge.org##iframe[src="about:blank?upapi=true"]
+dictionary.cambridge.org##.tz0.topslot-container
+dictionary.cambridge.org###google_ads_iframe_\/23202586\/cdo_btmslot_0
+dictionary.cambridge.org##iframe[src="https://f8603f8181d283164e7ef12c7e86bacd.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html?upapi=true"]
+dictionary.cambridge.org###ad_btmslot_a
+dictionary.cambridge.org##.am-default.up-show
+bloomberg.com###graphics-paywall-overlay
+bloomberg.com##.overlay__59af11e2.fence-rendered
+alternative.me##.adsbygoogle
+reddit.com##._1DK52RbaamLOWw5UPaht_S._3Ig_EsWWVLquWs2yBBQjec._1acwN_tUhJ8w-n7oCp-Aw3
 ! Checksum: b3yyWxF7we9rBS8x46moSQ
 ! [Ad Blocking Rules]/blocking
 ! [Exception Rules]/whitelist
