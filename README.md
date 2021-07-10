@@ -1,7 +1,6 @@
-# NoADS
-WWW without ads
-Best database for blocking advertisement in Iran (Persian Websites).
-(This is a personal database)
+# Clean Web
+Block Advertisement
+Best blocking advertisement database for persian websites.
 
 Instruction:
 1. Add "Adblock Plus" extension to your Chrome.
