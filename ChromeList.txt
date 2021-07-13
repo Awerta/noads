@@ -3557,6 +3557,10 @@ bloomberg.com###graphics-paywall-overlay
 bloomberg.com##.overlay__59af11e2.fence-rendered
 alternative.me##.adsbygoogle
 reddit.com##._1DK52RbaamLOWw5UPaht_S._3Ig_EsWWVLquWs2yBBQjec._1acwN_tUhJ8w-n7oCp-Aw3
+||redliini.ga/*.az$image
+themehits.com##.active.hyup-ljhtpfc-modal
+themehits.com##.hyup-ljhtpfc-wrapper
+themehits.com##.active.hyup-ljhtpfc-blackout
 ! Checksum: b3yyWxF7we9rBS8x46moSQ
 ! [Ad Blocking Rules]/blocking
 ! [Exception Rules]/whitelist
