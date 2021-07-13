@@ -8,6 +8,7 @@
 ! Licence: https://vahidiravani.ir/
 !-----------------------Persian Sites advert blocking filters-----------------------!
 @@||dastavin.com^$document
+@@||mahdroo.ir^$document
 @@||soft98.ir^$document
 @@||sh.st/bundles/smeadvertisement/img/track.gif?$xmlhttprequest
 @@||sh.st/bundles/smeadvertisement/img/track.gif?*
