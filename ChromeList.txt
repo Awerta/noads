@@ -2,14 +2,13 @@
 ! Checksum: 02gqA9sVUXDRWb74p8e4iA
 ! Version: 202006092134
 ! Title: Persian list by Vahid Iravani
-! Last modified: Tue Feb 12 20:57:01 +0330 2019
+! Last modified: Tue July 13 19:20:01 +0330 2021
 ! Expires: 1 days
 ! Homepage: http://vahidiravani.ir/
 ! Licence: https://vahidiravani.ir/
-!-----------------------Persian Sites advert blocking filters-----------------------!
+!-----------------------Persian Sites advertisement blocking filters-----------------------!
 @@||dastavin.com^$document
 @@||mahdroo.ir^$document
-@@||soft98.ir^$document
 @@||sh.st/bundles/smeadvertisement/img/track.gif?$xmlhttprequest
 @@||sh.st/bundles/smeadvertisement/img/track.gif?*
 @@|http://shoayb.rozblog.com/post/18|$document
